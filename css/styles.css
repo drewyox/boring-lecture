@@ -1,0 +1,16 @@
+h2.intro {
+  color: red;
+  font-style: italic;
+}
+
+p.intro {
+  font-family: monospace;
+  text-align: center;
+  font-style: italic;
+}
+
+img.intro {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
